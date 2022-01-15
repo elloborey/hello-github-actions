@@ -1,0 +1,6 @@
+Pkg update
+Pkg upgrade
+Pkg install git
+https://github.com/elloborey/root
+CD bash elloborey-root
+Bash.sh
